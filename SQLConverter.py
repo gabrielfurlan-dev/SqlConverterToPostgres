@@ -154,6 +154,6 @@ conn_pg.close()
 
 #Finalizando o código
 print('\n[====================================================]\n')
-print(colored('Conversion performed successfully', 'light_green\n'))
+print(colored('Conversion performed successfully', 'green\n'))
 input('Press "Enter" to exit')
 exit()
